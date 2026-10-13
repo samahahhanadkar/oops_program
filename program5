@@ -48,4 +48,3 @@ cout << "Second Book Details:" << endl;
 book2.display();
 return 0;
 }
-Dr. Anjali Ghongad
